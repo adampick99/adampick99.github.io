@@ -2,7 +2,7 @@
 
 ## Credits
 
-Special thanks to [Twitter](https://www.twitter.com/codewithsadee) for the template.
+Special thanks to [codewithsadee](https://www.twitter.com/codewithsadee) for the template.
 
 ## License
 
